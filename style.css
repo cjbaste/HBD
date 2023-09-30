@@ -59,7 +59,7 @@ section .cards{
     display: flex;
 }
 section .cards .let{
-    background: #FEF8C4;
+    background: #FDF9FF;
     border-radius: 15px 50px;
     box-shadow: 5px 8px gray;
     margin: 40px;
